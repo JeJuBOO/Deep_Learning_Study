@@ -8,7 +8,7 @@ https://www.deeplearningbook.org/
 *deep Learning을 공부하기 위한 이 책을 쉽게 이해할 수 있게 정리 할 것이다.*
 
 ---
-* Table of Contents
+## Table of Contents
 * [Acknowledgements](https://www.deeplearningbook.org/contents/acknowledgements.html)
 * Notation
 * 1.Introduction
@@ -87,9 +87,17 @@ https://www.deeplearningbook.org/
  
 *소개가 굉장히 길어 놀랐지만 읽다보면 빠져들어 읽게된다. 비록 어떤부분은 Ctrl C+V 기술을 사용하여 작성했지만 찬찬히 읽어내려 가며 잘 작성된 책이라고 느끼며 소개를 위와같이 정리해 보았다.*
 
-#
+[맨위로](#table-of-contents)
+
+# Part I.  Applied Math and MachineLearning Basics
  
-[맨위로](#deep-learning)
+ 
+ 
+ 
+ 
+ 
+ 
+[맨위로](#table-of-contents)
 
 
 
